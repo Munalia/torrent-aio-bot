@@ -1,5 +1,6 @@
 const express = require("express");
 const telegram = require("node-telegram-bot-api");
+telegram.Promise = myPromise;
 const Torrent = require("../lib/torrent");
 const botInit = require("../lib/bot");
 const torrent = new Torrent();

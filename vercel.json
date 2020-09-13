@@ -1,0 +1,12 @@
+{
+    "name": "cloudtorrenter",
+    "version": 1,
+    "env": "ANYTHING",
+    "public": true,
+    "cleanUrls": true,
+    "trailingSlash": false,
+    "github": {
+        "enabled": false,
+        "silent": true
+    }
+}

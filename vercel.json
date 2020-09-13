@@ -1,6 +1,6 @@
 {
     "name": "cloudtorrenter",
-    "version": 1,
+    "version": 2,
     "env": "ANYTHING",
     "public": true,
     "cleanUrls": true,

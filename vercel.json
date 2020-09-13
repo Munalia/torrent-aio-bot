@@ -6,7 +6,7 @@
     "cleanUrls": true,
     "trailingSlash": false,
     "github": {
-        "enabled": false,
+        "enabled": true,
         "silent": true
     }
 }
